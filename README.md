@@ -8,11 +8,10 @@
 - 프론트에서 직접 fetch를 통해서 파일을 불러오는 형식이었다.
 - 아래는 기존 프로젝트의 파일트리와 프로젝트이다.
   
-<img width="23%" height="500px" alt="파일 트리 screen-shot" src="https://github.com/hi2102/movie-next-app/assets/71423455/31e8a3e8-c1a5-4b9a-b1e4-4b5f419de531">
+<img width="23%" height="500px" alt="파일 트리 screen-shot" src="https://github.com/hi2102/movie-next-app/assets/71423455/7720ddf9-5435-49be-a3d1-7a7a4d16a98a">
 
 
-<img width="76%" height="500px" alt="프로젝트 gif" src="https://github.com/hi2102/movie-next-app/assets/71423455/035bca2a-4b9f-4999-bf16-6a7324bdaad7">
-
+<img width="76%" height="500px" alt="프로젝트 gif" src="https://github.com/hi2102/movie-next-app/assets/71423455/332b78f5-4af8-464b-ace0-9ecd9b27546b">
 
 
 
@@ -27,11 +26,10 @@
   - 화면의 최하단에서 최상단으로 이동하는 버튼 기능을 추가
 - 아래는 새로운 프로젝트의 파일트리 구조와 프로젝트이다.
 
-<img width="auto" height="auto" alt="파일 트리 screen-shot" src="https://github.com/hi2102/movie-next-app/assets/71423455/f14b99c0-a5c2-43bf-9915-330c3fdf6d9a">
+<img width="auto" height="auto" alt="파일 트리 screen-shot" src="https://github.com/hi2102/movie-next-app/assets/71423455/2464fa6f-6e59-4ce0-a422-36405bcd81bf">
 
 
-<img width="100%" height="100%" alt="프로젝트 gif" src="https://github.com/hi2102/movie-next-app/assets/71423455/2299283e-06e7-4bc7-97d7-ab4095794c53">
-
+<img width="100%" height="100%" alt="프로젝트 gif" src="https://github.com/hi2102/movie-next-app/assets/71423455/0198af0f-c3b9-47f0-a280-ddd9ad3ff952">
 
 
 <hr />
