@@ -4,6 +4,7 @@ import { useEffect, useState } from 'react';
 import { fetchMovies } from '../api/route';
 import Card from '../../components/card';
 import { useParams } from 'next/navigation';
+import ToTheTop from '@/components/toTheTop';
 
 export default function MovieListPage() {
 	const [movies, setMovies] = useState([]);
@@ -23,12 +24,13 @@ export default function MovieListPage() {
 	}, [id]); // 빈 의존성 배열을 전달하여 한 번만 실행되도록 설정
 
 	return (
-		<main className='bg-fuchsia-50'>
+		<main className='bg-fuchsia-50 relative'>
 			{movies.map((movie: any) => (
 				<div className='flex' key={movie.id}>
 					<Card movie={movie} />
 				</div>
 			))}
+			<ToTheTop />
 		</main>
 	);
 }
