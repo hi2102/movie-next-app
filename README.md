@@ -10,7 +10,9 @@
   
 <img width="23%" height="500px" alt="파일 트리 screen-shot" src="https://github.com/hi2102/movie-next-app/assets/71423455/31e8a3e8-c1a5-4b9a-b1e4-4b5f419de531">
 
+
 <img width="76%" height="500px" alt="프로젝트 gif" src="https://github.com/hi2102/movie-next-app/assets/71423455/035bca2a-4b9f-4999-bf16-6a7324bdaad7">
+
 
 
 
@@ -27,7 +29,9 @@
 
 <img width="auto" height="auto" alt="파일 트리 screen-shot" src="https://github.com/hi2102/movie-next-app/assets/71423455/f14b99c0-a5c2-43bf-9915-330c3fdf6d9a">
 
+
 <img width="100%" height="100%" alt="프로젝트 gif" src="https://github.com/hi2102/movie-next-app/assets/71423455/2299283e-06e7-4bc7-97d7-ab4095794c53">
+
 
 
 <hr />
