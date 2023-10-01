@@ -14,6 +14,7 @@
 ### 새로운 프로젝트
 
 - 새로운 프로젝트는 npm을 사용했고, 타입스크립트와 nextJs를 사용했다.
+- 기존의 프로젝트에서와 달리 fetch 파일을 api/route.tsx 파일로 분할하여 관리
 
 
 <img width="49%" height="900px" alt="파일 트리 screen-shot" src="https://github.com/hi2102/movie-next-app/assets/71423455/d4a93862-d1db-46d2-8d48-3b3af74673f8">
