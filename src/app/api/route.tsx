@@ -6,11 +6,3 @@ export async function fetchMovies() {
 
 	return movieData.data.movies;
 }
-
-export async function fetchMoviesById(id: any) {
-	const res = await fetch(
-		`https://yts.mx/api/v2/movie_details.json?movie_id=${id}`,
-	);
-	const movieData = await res.json();
-	return movieData;
-}
